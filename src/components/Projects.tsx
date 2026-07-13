@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 
 import React from "react";
 import SpotlightCard from "./SpotlightCard";
@@ -158,7 +158,7 @@ export default function Projects() {
         <h3 className="text-sm tracking-widest uppercase text-neutral-500 mb-8">04. The Agentic Intelligence Lab</h3>
         <div className="grid md:grid-cols-2 gap-6">
           
-          <a href="https://github.com/taha-codes09/AegisCore-DevOps" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/agentic-saim/AegisCore-DevOps" target="_blank" rel="noopener noreferrer">
             <SpotlightCard className="p-8 h-full flex flex-col justify-between group/link">
               <div>
                 <h4 className="text-2xl font-medium text-white mb-3 group-hover/link:text-blue-400 transition-colors">AegisCore-DevOps</h4>
@@ -174,7 +174,7 @@ export default function Projects() {
             </SpotlightCard>
           </a>
 
-          <a href="https://github.com/taha-codes09/DevOps-AI-Engineer-Agent" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/agentic-saim/DevOps-AI-Engineer-Agent" target="_blank" rel="noopener noreferrer">
             <SpotlightCard className="p-8 h-full flex flex-col justify-between group/link">
               <div>
                 <h4 className="text-2xl font-medium text-white mb-3 group-hover/link:text-blue-400 transition-colors">DevOps-AI-Engineer</h4>
@@ -190,7 +190,7 @@ export default function Projects() {
             </SpotlightCard>
           </a>
 
-          <a href="https://github.com/taha-codes09/Helix-AI-Orchestrator" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/agentic-saim/Helix-AI-Orchestrator" target="_blank" rel="noopener noreferrer">
             <SpotlightCard className="p-8 h-full flex flex-col justify-between group/link">
               <div>
                 <h4 className="text-2xl font-medium text-white mb-3 group-hover/link:text-blue-400 transition-colors">Helix-AI-Orchestrator</h4>
@@ -205,7 +205,7 @@ export default function Projects() {
             </SpotlightCard>
           </a>
 
-          <a href="https://github.com/taha-codes09/AI-powered-Sales-CRM-Agent" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/agentic-saim/AI-powered-Sales-CRM-Agent" target="_blank" rel="noopener noreferrer">
             <SpotlightCard className="p-8 h-full flex flex-col justify-between group/link">
               <div>
                 <h4 className="text-2xl font-medium text-white mb-3 group-hover/link:text-blue-400 transition-colors">SalesIQ — Revenue Engine</h4>
@@ -220,7 +220,7 @@ export default function Projects() {
             </SpotlightCard>
           </a>
 
-          <a href="https://github.com/taha-codes09/ClaimOS" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/agentic-saim/ClaimOS" target="_blank" rel="noopener noreferrer">
             <SpotlightCard className="p-8 h-full flex flex-col justify-between group/link">
               <div>
                 <h4 className="text-2xl font-medium text-white mb-3 group-hover/link:text-blue-400 transition-colors">ClaimOS</h4>
@@ -236,7 +236,7 @@ export default function Projects() {
             </SpotlightCard>
           </a>
 
-          <a href="https://github.com/taha-codes09/Social-Media-Autopilot-Agent-with-MCP" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/agentic-saim/Social-Media-Autopilot-Agent-with-MCP" target="_blank" rel="noopener noreferrer">
             <SpotlightCard className="p-8 h-full flex flex-col justify-between group/link">
               <div>
                 <h4 className="text-2xl font-medium text-white mb-3 group-hover/link:text-blue-400 transition-colors">SocialPilot</h4>
@@ -259,7 +259,7 @@ export default function Projects() {
         <h3 className="text-sm tracking-widest uppercase text-neutral-500 mb-8">05. Full Stack & Web Engineering</h3>
         <div className="grid md:grid-cols-2 gap-6">
           
-          <a href="https://github.com/taha-codes09/QuantumOps-AI" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/agentic-saim/QuantumOps-AI" target="_blank" rel="noopener noreferrer">
             <SpotlightCard className="p-8 h-full flex flex-col justify-between group/link">
               <div>
                 <h4 className="text-2xl font-medium text-white mb-3 group-hover/link:text-blue-400 transition-colors">QuantumOps-AI</h4>
@@ -275,7 +275,7 @@ export default function Projects() {
             </SpotlightCard>
           </a>
 
-          <a href="https://github.com/taha-codes09/OmniMetrics-AI" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/agentic-saim/OmniMetrics-AI" target="_blank" rel="noopener noreferrer">
             <SpotlightCard className="p-8 h-full flex flex-col justify-between group/link">
               <div>
                 <h4 className="text-2xl font-medium text-white mb-3 group-hover/link:text-blue-400 transition-colors">OmniMetrics-AI</h4>
@@ -291,7 +291,7 @@ export default function Projects() {
             </SpotlightCard>
           </a>
 
-          <a href="https://github.com/taha-codes09/astra-ecommerce" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/agentic-saim/astra-ecommerce" target="_blank" rel="noopener noreferrer">
             <SpotlightCard className="p-8 h-full flex flex-col justify-between group/link">
               <div>
                 <h4 className="text-2xl font-medium text-white mb-3 group-hover/link:text-blue-400 transition-colors">Astra E-Commerce</h4>
@@ -307,7 +307,7 @@ export default function Projects() {
             </SpotlightCard>
           </a>
 
-          <a href="https://github.com/taha-codes09/quantum-web3" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/agentic-saim/quantum-web3" target="_blank" rel="noopener noreferrer">
             <SpotlightCard className="p-8 h-full flex flex-col justify-between group/link">
               <div>
                 <h4 className="text-2xl font-medium text-white mb-3 group-hover/link:text-blue-400 transition-colors">Quantum Web Portal</h4>
@@ -328,7 +328,7 @@ export default function Projects() {
 
       {/* Footer */}
       <footer className="border-t border-white/5 py-12 text-center text-neutral-500 text-sm">
-        <p>© {new Date().getFullYear()} Muhammad Taha. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} Agentic Saim. All rights reserved.</p>
         <p className="mt-2">Architecting Autonomous Perception-Action Loops.</p>
       </footer>
     </main>

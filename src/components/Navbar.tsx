@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 
 import React from "react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
@@ -26,7 +26,7 @@ export default function Navbar() {
         <a href="#projects" onClick={(e) => scrollToSection(e, "projects")} className="hover:text-white transition-colors">Projects</a>
       </div>
       <div className="flex items-center gap-3 md:gap-4">
-        <a href="https://github.com/taha-codes09" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors text-lg">
+        <a href="https://github.com/agentic-saim" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors text-lg">
           <FaGithub />
         </a>
         <a href="https://linkedin.com/in/taha-codes09" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors text-lg">

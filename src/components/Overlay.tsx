@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 
 import React, { useRef } from "react";
 import { MotionValue, useMotionValueEvent } from "framer-motion";
@@ -89,7 +89,7 @@ export default function Overlay({ scrollYProgress }: OverlayProps) {
         className="absolute top-1/2 left-0 w-full px-6 text-center"
         style={{ opacity: 1, transform: "translateY(-50%)" }}
       >
-        <h1 className="text-5xl md:text-7xl font-bold tracking-tighter mb-4 text-transparent bg-clip-text bg-gradient-to-r from-white to-white/50">Muhammad Taha.</h1>
+        <h1 className="text-5xl md:text-7xl font-bold tracking-tighter mb-4 text-transparent bg-clip-text bg-gradient-to-r from-white to-white/50">Agentic Saim.</h1>
         <p className="text-xl md:text-3xl font-light text-neutral-400">Agentic AI & Backend Engineer.</p>
       </div>
 

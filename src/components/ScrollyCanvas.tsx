@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 
 import React, { useEffect, useRef, useCallback, useState } from "react";
 import { useScroll, useMotionValueEvent, motion } from "framer-motion";
@@ -55,7 +55,7 @@ function MobileHero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.3 }}
           >
-            Muhammad Taha.
+            Agentic Saim.
           </motion.h1>
           <motion.p
             className="text-xl font-light text-neutral-400"
